@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ChildBrowserTest' target in the 'ChildBrowserTest' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
