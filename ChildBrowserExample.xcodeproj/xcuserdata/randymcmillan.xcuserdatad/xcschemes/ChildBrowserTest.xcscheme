@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4818F65D146C87E000421A04"
-               BuildableName = "ChildBrowserTest.app"
+               BuildableName = "ChildBrowserExample.app"
                BlueprintName = "ChildBrowserExample"
                ReferencedContainer = "container:ChildBrowserExample.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4818F65D146C87E000421A04"
-            BuildableName = "ChildBrowserTest.app"
+            BuildableName = "ChildBrowserExample.app"
             BlueprintName = "ChildBrowserExample"
             ReferencedContainer = "container:ChildBrowserExample.xcodeproj">
          </BuildableReference>
@@ -50,7 +50,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4818F65D146C87E000421A04"
-            BuildableName = "ChildBrowserTest.app"
+            BuildableName = "ChildBrowserExample.app"
             BlueprintName = "ChildBrowserExample"
             ReferencedContainer = "container:ChildBrowserExample.xcodeproj">
          </BuildableReference>
@@ -68,7 +68,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4818F65D146C87E000421A04"
-            BuildableName = "ChildBrowserTest.app"
+            BuildableName = "ChildBrowserExample.app"
             BlueprintName = "ChildBrowserExample"
             ReferencedContainer = "container:ChildBrowserExample.xcodeproj">
          </BuildableReference>
